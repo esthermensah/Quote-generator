@@ -25,4 +25,9 @@ Generate Image: The app will place your quote on the selected template and gener
 Share: Save and share your motivational quote image on social media.
 
 
+![image](https://github.com/user-attachments/assets/8b8caa99-08ff-4db4-9358-36f2e39dc543)
+
+
+![image](https://github.com/user-attachments/assets/f9e8640c-ce13-499a-984d-8974a395c88b)
+
 
